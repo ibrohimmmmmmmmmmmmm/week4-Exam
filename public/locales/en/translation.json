@@ -1,0 +1,642 @@
+{
+  "requestText": "By contacting the Win Dom construction company, you can be sure that all your wishes will be taken into account and implemented on time under the most comfortable conditions.",
+
+  "person1NameLine1": "RASUL",
+  "person1NameLine2": "MUKHARYAMOV",
+
+  "person2NameLine1": "DMITRY",
+  "person2NameLine2": "VAGANOV",
+
+  "personRoleLine1": "Deputy",
+  "personRoleLine2": "Project Manager",
+   "marketingHead": "Head of Marketing",
+  "salesHead": "Head of Sales",
+  "mortgageHead": "Head of Mortgage Department",
+  "manager": "Client Manager",
+  "lawyer": "Lead Lawyer",
+  "siteHead": "Site Supervisor",
+  "foreman": "Foreman",
+
+  "write": "Write",
+  "review": "Leave a review",
+  "our": "OUR",
+  "team": "TEAM",
+  "teamDesc": "these are people who share the beauty and comfort of suburban life.",
+
+  "managersDesc": "Our managers will help you understand which house suits you best. They will select the construction technology and a ready-made standard project. Or develop an individual solution based on your request.",
+
+  "igorName": "IGOR ZAKHAROV",
+  "igorJob": "Project Manager",
+
+  "luizaName": "LUIZA NAZIPOVA",
+  "luizaJob": "Chief Architect",
+  "townhouses": "Townhouses",
+"twoFloor": "Two-storey",
+  "housesc": "houses",
+
+  "loading": "Loading...",
+
+  "houseTitle": "Classic style house",
+  "area": "with area",
+  "houseArea": "House area",
+  "landArea": "Land area",
+  "category": "Land type",
+  "floors": "Number of floors",
+  "rooms": "Number of rooms",
+  "price": "Price",
+  "consult": "GET CONSULTATION",
+
+  "features": "Room types",
+  "bedrooms": "4 spacious bedrooms",
+  "bathrooms": "2 bathrooms",
+  "kitchen": "kitchen-living room",
+  "wardrobe": "wardrobe",
+  "terrace": "terrace",
+  "mansard": "mansard floor",
+  "parking": "parking for 2 cars",
+
+  "characteristics": "General characteristics",
+  "walls": "ceramic block without insulation",
+  "thickness": "wall thickness half a meter",
+  "roof": "insulated roof",
+  "floorsConcrete": "reinforced concrete floors",
+  "stairs": "monolithic entrance and inter-floor stairs",
+  "finish": "pre-finishing, White Box",
+
+  "communications": "Communications and utilities",
+  "gas": "gas",
+  "water": "water",
+  "electricity": "electricity",
+  "sewer": "sewerage",
+  "heating": "heating",
+
+  "mortgagee": "MORTGAGE",
+  "propertyType": "Property type",
+  "project": "Project",
+  "mortgageType": "Mortgage type",
+  "all": "All",
+
+  "firstPay": "Initial payment",
+  "monthly": "Monthly payment",
+  "calculate": "Calculate payment",
+  
+"catalog": {
+  "filter": {
+    "single": "1-floor",
+    "double": "2-floor",
+    "townhouse": "Townhouses",
+    "map": "On map",
+    "all": "All houses"
+  },
+  "labels": {
+    "area": "House area:",
+    "land": "Land area:",
+    "category": "Plot type:",
+    "floors": "Floors:",
+    "rooms": "Rooms:"
+  },
+  "details": "Project details"
+},
+
+"housess": {
+  "single": "Single-storey",
+  "home": "houses"
+},
+
+"konstant": {
+  "headerTop": "Turnkey houses",
+  "headerMain": "Konstantinovka",
+  "headerSpan": "",
+  "projectName": "Konstantinovka"
+},
+
+"winter": {
+  "headerTop": "Turnkey houses",
+  "headerMain": "WINTER",
+  "headerSpan": "HILL",
+  "projectName": "Winter Hill"
+},
+
+"hurry": {
+  "title1": "HURRY TO BOOK A HOUSE IN",
+  "title2": "COTTAGE VILLAGE",
+  "project": "EMERALD VILLAGE",
+  "free": "Available plots:",
+  "btn1": "CONTACT MANAGER",
+  "btn2": "LEAVE REQUEST"
+},
+
+"usadi": {
+  "header": {
+    "desc": "Turnkey houses already built",
+    "title": "USADY"
+  },
+  "projectName": "Usady"
+},
+
+  "iq": {
+  "header": {
+    "desc": "Modern townhouse club in Kazan"
+  },
+
+  "plan": {
+    "title1": "Village",
+    "title2": "Plan"
+  },
+
+  "buy": {
+    "title1": "Currently",
+    "title2": "available for purchase:",
+
+    "card": {
+      "desc": "Private house with land",
+      "price": "Price from 15 500 000 ₽"
+    }
+  }
+},
+
+"plans": {
+  "title1": "LAYOUTS",
+  "title2": "TOWNHOUSES",
+
+  "desc1": "Townhouses in Emerald Village are available in two layout options.",
+  "desc2": "Currently available area is 150 m²",
+
+  "list": [
+    "✔ Living room",
+    "✔ 2 bedrooms",
+    "✔ 2 bathrooms",
+    "✔ 1 flexible room",
+    "✔ Children's room"
+  ],
+
+  "floor1": "First floor 75 m²",
+  "floor2": "Second floor 75 m²",
+
+  "banner": {
+    "title1": "HURRY TO BOOK A HOUSE",
+    "title2": "IN THE COTTAGE COMMUNITY",
+    "title3": "EMERALD VILLAGE",
+    "free": "Available plots:",
+    "btn1": "CONTACT MANAGER",
+    "btn2": "LEAVE REQUEST"
+  },
+
+  "other": {
+    "title1": "OTHER",
+    "title2": "PROJECTS",
+
+    "card1": {
+      "title": "IQ CLUB",
+      "desc": "Construction starts – Q1 2024"
+    },
+    "card2": {
+      "title": "HOUSES IN WINTER HILL",
+      "desc": "10 minutes from Kazan airport"
+    }
+  }
+},
+
+  "now": {
+  "status": "Sales closed"
+},
+  "popular": {
+  "title1": "POPULAR",
+  "title2": "PROJECTS",
+
+  "left": {
+    "title": "Townhouse 130 m²",
+    "desc": "Visualization"
+  },
+
+  "cards": [
+    { "title": "Project WIN10", "desc": "Visualization" },
+    { "title": "Project WIN16", "desc": "Visualization" },
+    { "title": "Project WIN18", "desc": "Visualization" },
+    { "title": "Project WIN10", "desc": "Visualization" },
+    { "title": "Project WIN16", "desc": "Visualization" },
+    { "title": "Project WIN18", "desc": "Visualization" }
+  ]
+},
+  "gallery": {
+    "title1": "GALLERY",
+    "title2": "OF BUILT HOUSES",
+
+    "items": {
+      "item1": {
+        "title": "Project WIN20",
+        "desc": "completed in 2021"
+      },
+      "item2": {
+        "title": "Project WIN21",
+        "desc": "completed in 2022"
+      },
+      "item3": {
+        "title": "Project WIN22",
+        "desc": "completed in 2023"
+      },
+      "item4": {
+        "title": "Project WIN23",
+        "desc": "completed in 2024"
+      }
+    }
+  },
+
+  "map": {
+    "title": "Our office in Kazan",
+    "subtitle": "Click to open the map"
+  },
+  "transport": {
+    "title1": "TRANSPORT",
+    "title2": "ACCESSIBILITY",
+    "name": "EMERALD VILLAGE",
+
+    "desc1": "is located in the Privolzhsky district of Kazan, near the residential complex Emerald. Everything needed for comfortable living is nearby.",
+    "desc2": "Convenient transport and pedestrian accessibility, as well as developed social and engineering infrastructure: kindergartens, schools, and administrative institutions.",
+
+    "items": {
+      "item1": { "time": "3 MIN", "text": "to the bus stop" },
+      "item2": { "time": "5 MIN", "text": "to kindergarten and school" },
+      "item3": { "time": "8 MIN", "text": "to Dubrava forest park" }
+    },
+
+    "malls": {
+      "mall1": { "name": "Yuzhny Mall", "time": "26 minutes" },
+      "mall2": { "name": "Mega Mall", "time": "28 minutes" },
+      "mall3": { "name": "Koltso Mall", "time": "32 minutes" },
+      "mall4": { "name": "Park House Mall", "time": "45 minutes" }
+    }
+  },
+
+
+  "aboutProject": {
+    "title1": "ABOUT",
+    "title2": "PROJECT",
+    "desc": "is a business-class cottage village. A private guarded territory with 40 houses and 25 townhouses located 25 minutes from the center of Kazan.",
+
+    "items": {
+      "school": "Nearby kindergartens and schools",
+      "transport": "Public transport accessibility",
+      "shops": "Many shops and shopping centers",
+      "infrastructure": "Developed internal infrastructure"
+    }
+  },
+
+  "village": {
+    "header": {
+      "subtitle": "Business-class cottage village",
+      "title": "EMERALD"
+    },
+
+    "about": {
+      "title": "EMERALD VILLAGE"
+    },
+
+    "plan": {
+      "title1": "Village",
+      "title2": "Plan"
+    },
+
+    "buy": {
+      "title1": "Currently",
+      "title2": "available",
+      "title3": "for purchase:",
+      "cardDesc": "Private house with land",
+      "price": "Price from 15,500,000 ₽"
+    }
+  },
+
+"faq": {
+  "title1": "ANSWERS TO",
+  "title2": "QUESTIONS",
+  "btn": "Request a call",
+
+  "q1": "Can I use maternity capital as a down payment?",
+  "a1": "Yes. If it's not enough, you can add your own funds.\n\nBank options:\n— increase loan amount;\n— use capital without increasing loan.",
+
+  "q2": "Do I need paper documents?",
+  "a2": "No. You can send scans or photos online.",
+
+  "q3": "Are there citizenship requirements?",
+  "a3": "No for standard programs. State support — only for citizens.",
+
+  "q4": "I work unofficially. Can I get a mortgage?",
+  "a4": "Yes, some banks approve with minimal documents."
+},
+
+"mortgagePrograms": {
+  "mainTitle": "MORTGAGE LOANS",
+  "mainDesc": "Profitable mortgage program with special conditions.",
+  "familyTitle": "FAMILY MORTGAGE",
+  "familyDesc": "Program for families with children.",
+  "govTitle": "GOVERNMENT SUPPORT 2023",
+  "govDesc": "State-supported mortgage.",
+  "itTitle": "FOR IT SPECIALISTS",
+  "itDesc": "Special mortgage for IT employees.",
+  "btn": "Calculate payment"
+},
+  
+"mortgage": {
+  "title": "MORTGAGE",
+  "all": "All",
+  "price": "Property price",
+  "initial": "Initial payment",
+  "monthly": "Monthly payment",
+  "button": "Calculate payment",
+
+  "rate": "Rate",
+  "program": "Program",
+  "from": "from 4 000 ₽ / month",
+
+  "banks": {
+    "alfa": "Alfa Bank",
+    "vtb": "VTB Bank",
+    "sber": "Sberbank",
+    "sovkom": "Sovcombank"
+  },
+
+  "programs": {
+    "family": "Family mortgage",
+    "gov": "Government support",
+    "it": "For IT specialists"
+  }
+},
+
+
+  "ipotekaPage": {
+  "title": "MORTGAGE FROM",
+  "percent": "4%",
+  "desc1": "Unique mortgage programs with special conditions.",
+  "desc2": "Just fill out the form and get approval.",
+  "desc3": "Just one step to your dream home!",
+  "button": "Calculate payment"
+},
+
+
+    "news": {
+  "title": "News",
+  "all": "All",
+  "more": "Read more",
+  "hide": "Hide",
+  "prev": "< Prev",
+  "next": "Next >", 
+
+  "card1": {
+    "title": "10 reasons to switch to a townhouse",
+    "desc": "68% want to move to a house",
+    "full": "Most people consider private homes more comfortable due to space and ecology."
+  },
+  "card2": {
+    "title": "Why townhouses are popular",
+    "desc": "Balance of price and comfort",
+    "full": "Townhouses give more space for less money."
+  },
+  "card3": {
+    "title": "Advantages of suburban life",
+    "desc": "Fresh air and silence",
+    "full": "Living outside the city reduces stress and improves health."
+  },
+  "card4": {
+    "title": "How to choose a dream house",
+    "desc": "Look at area and infrastructure",
+    "full": "Check roads, schools and transport accessibility."
+  },
+  "card5": {
+    "title": "Best house projects",
+    "desc": "Modern projects are affordable",
+    "full": "Technologies allow fast and качественное строительство."
+  },
+  "card6": {
+    "title": "How to save on buying",
+    "desc": "Choose выгодную ипотеку",
+    "full": "Compare banks to find best conditions."
+  }
+}
+,
+
+    "footer": {
+  "about": "ABOUT COMPANY",
+  "home": "Home",
+  "team": "Our team",
+  "media": "Media about us",
+  "reviews": "Reviews",
+  "news": "News",
+  "contact": "Contacts",
+  "policy": "Privacy Policy",
+
+  "projects": "PROJECTS",
+  "project1": "Emerald Village",
+  "project2": "IQ CLUB",
+  "allProjects": "All projects",
+
+  "ipoteka": "MORTGAGE",
+  "ipoteka1": "Mortgage loans",
+  "ipoteka2": "For families with children",
+  "ipoteka3": "Military mortgage",
+  "ipoteka4": "Government support 2023",
+
+  "rights": "All rights reserved"
+},
+
+  "projects": "Projects",
+  "houses": "Houses",
+  "ipoteka": "Mortgage",
+  "about": "About",
+  "contact": "Contacts",
+  "call": "Request a Call",
+
+  "menu": {
+    "projects": {
+      "silver": "Emerald Village",
+      "iq": "IQ CLUB",
+      "winter": "Winter Hill Houses",
+      "usadi": "Usady Village",
+      "konstantinovka": "Konstantinovka"
+    },
+    "houses": {
+      "one": "Single-storey",
+      "two": "Two-storey",
+      "town": "Townhouses"
+    },
+    "about": {
+      "team": "Team",
+      "media": "Media",
+      "news": "News"
+    }
+  },
+
+  "home": {
+    "hero": {
+      "company": "CONSTRUCTION COMPANY",
+      "description": "We build houses, cottage communities, and townhouses in Kazan",
+      "button": "Learn more about projects"
+    },
+
+    "section1": {
+      "stats": [
+        { "num": "10", "text": "Years of real estate sales experience" },
+        { "num": "1051", "text": "Hectares of comfortable communities" },
+        { "num": "5063", "text": "Happy homeowners" }
+      ],
+      "about": {
+        "title": "About Company",
+        "p1": "The company",
+        "p1_2": "was founded in 2012.",
+        "p2": "Construction of houses and townhouses turnkey.",
+        "p3": "More than 11 years in the real estate market."
+      },
+      "arch": {
+        "title1": "UNIQUE",
+        "title2": "ARCHITECTURE",
+        "desc1": "We create",
+        "desc2": "unique projects",
+        "desc3": "that look modern and premium"
+      }
+    },
+
+    "section2": {
+      "title1": "OUR",
+      "title2": "PROJECTS",
+      "subtitle": "Cottage communities and houses in Kazan",
+      "more": "View all",
+
+      "filters": {
+        "one": "Single-storey",
+        "two": "Two-storey",
+        "town": "Townhouses",
+        "all": "All houses"
+      },
+
+      "projects": {
+        "silver": "Emerald Village",
+        "iq": "IQ CLUB",
+        "winter": "Winter Hill Houses",
+        "usadi": "Usady Village"
+      },
+
+      "catalog1": "DOWNLOAD",
+      "catalog2": "OUR PROJECT CATALOG",
+      "name": "Name",
+      "email": "Your Email",
+      "download": "Download",
+
+      "ipoteka1": "WE WILL SELECT A",
+      "ipoteka2": "MORTGAGE",
+      "ipoteka3": "SOLUTION TODAY",
+      "ipotekaDesc": "Our specialists will help you choose the best mortgage program"
+    },
+
+    "section3": {
+      "title1": "WE WILL SELECT",
+      "title2": "MORTGAGE",
+      "title3": "SOLUTIONS TODAY",
+      "subtitle": "Choose the best option and our specialists will prepare offers",
+
+      "rate": "Rate",
+      "firstPay": "Initial payment",
+      "btn": "Get calculation",
+
+      "cards": [
+        {
+          "title": "MORTGAGE LOANS",
+          "text": "We will select a basic mortgage program for free",
+          "percent": "from 13.7%",
+          "firstPay": "from 10%",
+          "img": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=2070"
+        },
+        {
+          "title": "FAMILY MORTGAGE",
+          "text": "Use maternity capital as the first payment",
+          "percent": "from 4%",
+          "firstPay": "from 15%",
+          "img": "https://images.unsplash.com/photo-1600585152220-90363fe7e115?q=80&w=2070"
+        }
+      ],
+
+      "team": {
+        "title1": "OUR",
+        "title2": "TEAM",
+        "desc1": "Our employees are professionals with experience.",
+        "desc2": "We solve tasks of any complexity.",
+
+        "members": [
+          { "name": "Igor Zakharov", "role": "Project Manager" },
+          { "name": "Luiza Nazipova", "role": "Chief Architect" },
+          { "name": "Mukharyam Rasul", "role": "Deputy Head" },
+          { "name": "Dmitry Vaganov", "role": "Deputy Head" }
+        ]
+      }
+    },
+
+    "section4": {
+      "title": "MEDIA ABOUT US",
+      "btn": "Read article",
+      "main": {
+        "title": "Business Online Electronic Newspaper",
+        "desc": "The offer 'house at the price of an apartment' remains actual."
+      },
+      "second": {
+        "title": "Market turning point?",
+        "desc": "What is happening in the real estate market today"
+      },
+      "news": [
+        "Real estate growth is expected in Tatarstan",
+        "Housing market continues to grow"
+      ]
+    }
+  },
+
+  "section5": {
+    "title1": "REVIEWS",
+    "title2": "CLIENTS",
+
+    "newsTitle1": "NEWS",
+    "newsTitle2": "COMPANY",
+    "allNews": "All news →",
+
+    "bigNews1": {
+      "title": "Interior solutions from our designers",
+      "date": "07.08.2023"
+    },
+    "bigNews2": {
+      "title": "Sales in Emerald Village",
+      "date": "26.06.2023"
+    },
+
+    "reviews": [
+      {
+        "name": "Maxim Ivanov",
+        "project": "House 150m²",
+        "img": "https://randomuser.me/api/portraits/men/32.jpg",
+        "text": "Very satisfied with the quality. Everything was done neatly and quickly."
+      }
+    ]
+  },
+
+  "office": {
+    "title1": "SALES",
+    "title2": "OFFICE",
+    "name": "Central Office",
+    "desc": "You can contact our managers at any convenient location",
+    "address": "Kazan, Yarkaya St. 31B",
+    "time": "Mon-Sat: 9:00 – 18:00",
+    "phone": "+7 (962) 555-25-25",
+    "btn": "Get directions"
+  },
+
+  "contactPage": {
+    "title1": "CENTRAL OFFICE",
+    "title2": "SALES",
+    "address": "Republic of Tatarstan, Kazan, Yarkaya St. 31B",
+
+    "formTitle": "Consultation",
+    "formDesc": "Our manager will contact you shortly",
+
+    "name": "Your name",
+    "phone": "Phone",
+    "btn": "Get consultation",
+
+    "policy1": "By clicking the button, you agree to the",
+    "policy2": "processing of personal data"
+  }
+}

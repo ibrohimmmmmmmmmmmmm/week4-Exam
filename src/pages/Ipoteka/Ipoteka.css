@@ -1,0 +1,18 @@
+.ipoteka {
+  background-image: url("./Rectangle 139.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  
+  min-height: 70vh;              
+}
+@media (min-width: 768px) {
+  .ipoteka {
+    min-height: 80vh;
+  }
+}
+@media (min-width: 1024px) {
+  .ipoteka {
+    min-height: 898px;
+  }
+}
