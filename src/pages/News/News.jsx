@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { useTranslation } from "react-i18next";
 import NewsCard from "./NewsCard";
-import { allCards } from "./NewsData";
+import { allCards } from "./newsData";
 
 export default function News() {
   const { t } = useTranslation();
@@ -30,7 +30,6 @@ export default function News() {
         {t("news.title")}
       </h1>
 
-      {/* FILTER */}
       <div className="flex gap-2 md:gap-3 mb-8 flex-wrap">
         {years.map((year) => (
           <button
@@ -51,7 +50,6 @@ export default function News() {
         ))}
       </div>
 
-      {/* CARDS */}
       <div className="flex flex-col gap-6 md:gap-8">
         {current.map((card) => (
           <NewsCard
@@ -65,7 +63,6 @@ export default function News() {
         ))}
       </div>
 
-      {/* PAGINATION */}
       <div className="flex justify-center gap-2 mt-10 flex-wrap">
         <button
           onClick={() =>
