@@ -6,7 +6,7 @@ export const Ipoteka = lazy(() => import("../pages/Ipoteka/Ipoteka"));
 export const SilverVillage = lazy(() => import("../pages/SilverVillage/SilverVillage"));
 export const IQClub = lazy(() => import("../pages/IQClub/IQClub"));
 export const Usadi = lazy(() => import("../pages/Usadi/Usadi"));
-export const WinterHill = lazy(() => import("../pages/WinterHill/WinterHill"));
+export const WinterHill = lazy(() => import("../pages/WInterHill/WinterHill"))
 export const Kinstantinovka = lazy(() => import("../pages/Kinstantinovka/Kinstantinovka"));
 export const SingleFloor = lazy(() => import("../pages/SingleFloor/SingleFloor"));
 export const MultiFloor = lazy(() => import("../pages/MultiFloor/MultiFloor"));
