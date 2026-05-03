@@ -26,7 +26,7 @@ import {
 import Loading from "./components/Loading/Loading";
 
 export default function App() {
-  const router = createBrowserRouter([
+  const router = HashRouter([
     {
       path: "/",
       element: <Layout />,
