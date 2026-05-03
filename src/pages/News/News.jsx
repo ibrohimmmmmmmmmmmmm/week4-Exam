@@ -12,13 +12,11 @@ export default function News() {
 
   const cardsPerPage = 4;
 
-  // FILTER
   const filtered =
     activeYear === "all"
       ? allCards
       : allCards.filter((c) => c.year === activeYear);
 
-  // PAGINATION
   const totalPages = Math.ceil(filtered.length / cardsPerPage);
   const start = (currentPage - 1) * cardsPerPage;
   const current = filtered.slice(start, start + cardsPerPage);
