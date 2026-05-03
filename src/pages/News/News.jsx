@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { useTranslation } from "react-i18next";
 import NewsCard from "./NewsCard";
-import { allCards } from "./newsData";
+import { allCards } from "./nn";
 
 export default function News() {
   const { t } = useTranslation();

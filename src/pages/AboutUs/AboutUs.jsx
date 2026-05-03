@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import Section4Home from '../Home/Sections/Section4Home/Section4Home'
 import NewsCard from '../News/NewsCard'
-import { allCards } from '../News/newsData'
+import { allCards } from '../News/nn'
 
 export default function AboutUs() {
   const [openId, setOpenId] = useState(null)
