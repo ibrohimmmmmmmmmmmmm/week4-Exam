@@ -1,11 +1,9 @@
-import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import { createHashRouter, RouterProvider } from "react-router-dom";
 import { Suspense } from "react";
 import Layout from "./layout/Layout";
 import {
   AboutUs,
-  
   AllHouses,
-  
   Comand,
   Contact,
   Details,
@@ -24,12 +22,17 @@ import {
   WinterHill,
 } from "./router/router";
 import Loading from "./components/Loading/Loading";
+import ErrorPage from "./components/ErrorPage/ErrorPage";
+
+// 👉 простой fallback вместо белого экрана
+<ErrorPage />
 
 export default function App() {
-  const router = HashRouter([
+  const router = createHashRouter([
     {
       path: "/",
       element: <Layout />,
+      errorElement: <ErrorPage />, 
       children: [
         {
           index: true,
@@ -39,7 +42,6 @@ export default function App() {
             </Suspense>
           ),
         },
-
         {
           path: "silvervillage",
           element: (
@@ -48,7 +50,6 @@ export default function App() {
             </Suspense>
           ),
         },
-
         {
           path: "iqclub",
           element: (
@@ -57,7 +58,6 @@ export default function App() {
             </Suspense>
           ),
         },
-
         {
           path: "usadi",
           element: (
@@ -66,7 +66,6 @@ export default function App() {
             </Suspense>
           ),
         },
-
         {
           path: "winterhill",
           element: (
@@ -75,7 +74,6 @@ export default function App() {
             </Suspense>
           ),
         },
-
         {
           path: "konstantinovka",
           element: (
@@ -84,7 +82,6 @@ export default function App() {
             </Suspense>
           ),
         },
-
         {
           path: "ipoteka",
           element: (
@@ -149,7 +146,6 @@ export default function App() {
             </Suspense>
           ),
         },
-
         {
           path: "contact",
           element: (
@@ -159,14 +155,14 @@ export default function App() {
           ),
         },
         {
-                 path: "details/:todosId",
-                 element: (
-                   <Suspense fallback={<Loading />}>
-                     <Details />
-                   </Suspense>
-                  ),
-                },
-                {
+          path: "details/:todosId",
+          element: (
+            <Suspense fallback={<Loading />}>
+              <Details />
+            </Suspense>
+          ),
+        },
+        {
           path: "putyourdetails",
           element: (
             <Suspense fallback={<Loading />}>
