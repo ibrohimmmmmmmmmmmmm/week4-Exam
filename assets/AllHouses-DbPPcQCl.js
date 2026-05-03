@@ -1,1 +1,0 @@
-import"./chunk-CaILmz35.js";import{lt as e,rt as t}from"./index-BXiCyORK.js";e();var n=t();function r(){return(0,n.jsx)(`div`,{children:`AllHouses`})}export{r as default};
